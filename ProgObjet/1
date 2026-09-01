@@ -1,0 +1,52 @@
+# plan de cours
+
+Vidéo et pdf une semaine a l'avance dans les fichiers, ont doit travailler la-desus et poser des questions dans le cours.
+on peut accéder au cours a distance si c'est a l'autre campus.
+en présentiel si dans note campus.
+
+## outils :
+- visual studio
+- 
+
+13 octobre remise du travail
+20 octobre examen, présentiel moodle.
+travail 2, examen final calqué dessus.
+
+fabriquer une session examen sur le pc.
+
+cours 1
+composants
+écran n'est pas indispensable, aucun périférique n'est indispensable.
+
+microprocesseur, sélectionne l'instruction a exécuter
+la décoder, l'exécuté avec l'unité arythmétique (traitement) et logique (calcul)
+(avec son jeu d'instructions, qui sera utilisé par un programme)
+addition et soustractions, 
+
+gpu est quand meme un microprocesseur axé sur les calculs
+fréquences différentes, jeu d'insctructions différent, fabricant, génération. Nombre de couer : nombre d'unité arythmétiques
+(maintenant il y a un cache, un petite mémoire dans les microcontroleur, le reste va dans la ram.)
+
+des qu'il y  coupure de courant, la ram perd ses infos.
+
+systeme d'exploitation traduit le contenu des programme en binaire
+role de traducteur entre logiciel et matériel
+
+télégramme utilise le format binaire de l'alphabet
+
+2 octets pour un caractere, donc 16 bits
+
+mille octet (1024) = kilo octet
+
+mille ko = 1 méga octet 
+
+mille méga = 1 giga octet
+
+mille giga = 1 tera octet
+
+le programmeur pense selon le jeu d'instruction comment résoudre un probleme.
+
+le language de programmation haut niveau utilise le jeu d'instruction du microprocesseur pour nous.
+
+
+
