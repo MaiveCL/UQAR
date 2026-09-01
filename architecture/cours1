@@ -1,3 +1,23 @@
 plan de cours :
 
-Virtualisation et conteneurisation  1-2 Machine physique vs virtuelle, hyperviseur, VM, exemples d'utilisation, Docker 
+Virtualisation et conteneurisation  1-2 => Machine physique vs virtuelle, hyperviseur, VM, exemples d'utilisation, Docker.
+
+# cours 1 
+en une secondes combien d'instructions ? 10 a la puissance 9
+
+faire un tuto sur le binaire
+
+0   1  1  0  0  1   1   0
+128 64 32 16 8  4   2   1
+   2 + 4 + 32 + 64 =   102
+
+0101001
+
+1  0 *1  0
+0  1  1  1
+0  1  1  1
+
+
+1 0 0 0 1
+
+
