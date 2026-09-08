@@ -11,3 +11,5 @@ console.write
 console.writeLine
 commentaires
 console.ReadKey
+
+parler des variables en mentionnant la taille dans les cases mémoire.
