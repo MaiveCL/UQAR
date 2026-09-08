@@ -1,3 +1,5 @@
 - Repratiquer les calculs binaires, 
 - surtout division et multiplications.
 - additionneur est un exemple de jeu d'instruction
+- chaque instructions ce sont des portes logiques
+- étudier l'autre type de circuit logique (celui qvec juste des lignes)
