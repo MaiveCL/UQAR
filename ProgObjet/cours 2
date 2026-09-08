@@ -13,3 +13,6 @@ commentaires
 console.ReadKey
 
 parler des variables en mentionnant la taille dans les cases mémoire.
+exemple on nomme une variable string name;
+Stimulation de participation : on demande quelle est le nom de la variable et
+si personne ne réagit, demande qui dit que la réponse est string, qui dit que la réponse est name...
