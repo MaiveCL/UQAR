@@ -2,3 +2,4 @@ CLI = code intermédiaire
 .Net gere la traduction en code intermédiaire pour que plus tard il puisse installer sur un pc spécifique selon les intructions spécifique de son jeu d'instruction misroprocessuer.
 unity est en c#
 
+enseignement : meme si on connait le résultat, leur montrer la version imparfaite.
