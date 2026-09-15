@@ -10,7 +10,4 @@ convertir la boucle précédente en while i!=0 fait tel chose, demander au user 
 
 puis en do while, disant que la seule différence c'est que ce sera exécuté au moins une fois.
 
-
-
-
-
+exercice... afficher PIPIPI en alternance pour enseigner le modulo
