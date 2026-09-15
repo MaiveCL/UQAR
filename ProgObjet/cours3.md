@@ -5,5 +5,8 @@ demande de déclarer un nombre 1 et un nombre 2 et ensuite demander de les permu
 instruction de controle (les if else) un if seul, un if else
 
 boucle + description de l'incrémentation du i une boucle qui fait 30 étoile, mais i+2, en fait 15, etc.
+puis changer le int i = 0 pour exemple 40, boucle infini, avertissement
+
+
 
 
